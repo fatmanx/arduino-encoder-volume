@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volume", "volume\volume.csproj", "{99BA91E1-8715-4201-9648-35B61F9CEDE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "setVolumeDevice", "setVolumeDevice\setVolumeDevice.csproj", "{C9ECF8DA-CDDA-403D-B88A-316D057010DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeArduino", "VolumeArduino\VolumeArduino.csproj", "{69723116-74F6-4833-90B7-08531A28D642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BA91E1-8715-4201-9648-35B61F9CEDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BA91E1-8715-4201-9648-35B61F9CEDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BA91E1-8715-4201-9648-35B61F9CEDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BA91E1-8715-4201-9648-35B61F9CEDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9ECF8DA-CDDA-403D-B88A-316D057010DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ECF8DA-CDDA-403D-B88A-316D057010DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ECF8DA-CDDA-403D-B88A-316D057010DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ECF8DA-CDDA-403D-B88A-316D057010DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69723116-74F6-4833-90B7-08531A28D642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69723116-74F6-4833-90B7-08531A28D642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69723116-74F6-4833-90B7-08531A28D642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69723116-74F6-4833-90B7-08531A28D642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
